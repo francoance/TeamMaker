@@ -20,7 +20,7 @@ public class GeneradorEquipos{
     mainWin ventanaPrin = new mainWin();
     
     ventanaPrin.setVisible(true);
-    
+    //comentario desde otro
     //14-agosto-2014 / 21-agosto-2014
     }
     
