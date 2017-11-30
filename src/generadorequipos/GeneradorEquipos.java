@@ -18,7 +18,7 @@ public class GeneradorEquipos{
     
     public static void main(String[] args){
     mainWin ventanaPrin = new mainWin();
-    
+    System.out.println("Nuevo commit");
     ventanaPrin.setVisible(true);
     //comentario desde otro
     //14-agosto-2014 / 21-agosto-2014
